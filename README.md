@@ -1,5 +1,9 @@
 # Automated-custom-Scaled-YOLOv4-object-detection-model-training-for-total-beginners-
-Fully automated dataset download, dataset preparation and Scaled-YOLOv4 object detection model training and inference for total beginners on free GPU - No coding or AI skills needed)
+
+Code to Medium.com article:
+
+
+(= fully automated dataset download, dataset preparation and Scaled-YOLOv4 object detection model training and inference for total beginners on free GPU - No coding or AI skills needed)
 
 
 
@@ -14,4 +18,5 @@ If this repo helps your research in any way, I'd be grateful if you use  this bi
   journal={GitHub repository},
   howpublished={\url{https://github.com/FreeworkEarth/Automated-custom-Scaled-YOLOv4-object-detection-model-training-for-total-beginners-/blob/main/00_autodownload_DatasetOpenImages_OiDv4Toolkit_YOLO_annotation.ipynb}},
 }
-```
+
+
