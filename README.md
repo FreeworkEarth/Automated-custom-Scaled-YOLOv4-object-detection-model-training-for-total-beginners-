@@ -1,6 +1,7 @@
 # Automated-custom-Scaled-YOLOv4-object-detection-model-training-for-total-beginners-
 
 Code to Medium.com article:
+https://medium.com/@christophharing/b5b0fd59e29c?source=friends_link&sk=867721d700fcf489744e85c830acd237
 
 
 (= fully automated dataset download, dataset preparation and Scaled-YOLOv4 object detection model training and inference for total beginners on free GPU - No coding or AI skills needed)
